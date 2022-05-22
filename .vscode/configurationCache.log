@@ -1,1 +1,1 @@
-{"buildTargets":["all","bonus","c03.a","clean","fclean","re"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
+{"buildTargets":["all","bonus","c02.a","c03.a","clean","fclean","re"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

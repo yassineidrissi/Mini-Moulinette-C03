@@ -138,7 +138,7 @@ fi
 
 if [ ! -e ../ft_strncmp.c ]
 then
-	cp ../ex01/ft_strnmp.c ../
+	cp ../ex01/ft_strncmp.c ../
 fi
 
 if [ ! -e ../ft_strcat.c ]
