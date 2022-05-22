@@ -131,59 +131,34 @@ then
 	cp libft.h ../
 fi
 
-if [ ! -e ../ft_strcpy.c ]
+if [ ! -e ../ft_strcmp.c ]
 then
-	cp ../ex00/ft_strcpy.c ../
+	cp ../ex00/ft_strccmp.c ../
 fi
 
-if [ ! -e ../ft_strncpy.c ]
+if [ ! -e ../ft_strncmp.c ]
 then
-	cp ../ex01/ft_strncpy.c ../
+	cp ../ex01/ft_strnmp.c ../
 fi
 
-if [ ! -e ../ft_str_is_alpha.c ]
+if [ ! -e ../ft_strcat.c ]
 then
-	cp ../ex02/ft_str_is_alpha.c ../
+	cp ../ex02/ft_strcat.c ../
 fi
 
-if [ ! -e ../ft_str_is_numeric.c ]
+if [ ! -e ../ft_strncat.c ]
 then
-	cp ../ex03/ft_str_is_numeric.c ../
+	cp ../ex03/ft_strncat.c ../
 fi
 
-if [ ! -e ../ft_str_is_lowercase.c ]
+if [ ! -e ../ft_strstr.c ]
 then
-	cp ../ex04/ft_str_is_lowercase.c ../
+	cp ../ex04/ft_strstr.c ../
 fi
 
-if [ ! -e ../ft_str_is_uppercase.c ]
+if [ ! -e ../ft_strlcat.c ]
 then
-	cp ../ex05/ft_str_is_uppercase.c ../
-fi
-
-if [ ! -e ../ft_str_is_printable.c ]
-then
-	cp ../ex06/ft_str_is_printable.c ../
-fi
-
-if [ ! -e ../ft_strupcase.c ]
-then
-	cp ../ex07/ft_strupcase.c ../
-fi
-
-if [ ! -e ../ft_strlowcase.c ]
-then
-	cp ../ex08/ft_strlowcase.c ../
-fi
-
-if [ ! -e ../ft_strcapitalize.c ]
-then
-	cp ../ex09/ft_strcapitalize.c ../
-fi
-
-if [ ! -e ../ft_strlcpy.c ]
-then
-	cp ../ex10/ft_strlcpy.c ../
+	cp ../ex05/ft_strlcat.c ../
 fi
 
 source "${PATH_TEST}"/my_config.sh
