@@ -35,7 +35,7 @@ Part1_func_activation=('0' '0' '0' '0' \
 '0' '0' '0' '0' '0' \
 '0' '0' '0' '0' '0')
 
-Part1_func=('ft_strcmp' 'ft_strncmp' 'ft_strcat' 'ft_strncat' 'ft_strstr' 'ft_strlcat')
+Part1_func=('ft_strcmp.c' 'ft_strncmp.c' 'ft_strcat.c' 'ft_strncat.c' 'ft_strstr.c' 'ft_strlcat.c')
 #'ft_strncpy.c' 'ft_str_is_alpha.c' 'ft_str_is_numeric.c'\
 # 'ft_str_is_lowercase.c' 'ft_str_is_uppercase.c' 'ft_str_is_printable.c' 'ft_strupcase'\
 # 'ft_strlowcase' 'ft_strlcpy' 'ft_putstr_non_printable'
