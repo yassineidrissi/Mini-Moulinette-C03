@@ -3,7 +3,7 @@ This is an edit of prev c03est made by @yaidriss to fit with the 2022 project c0
 (ORIGINAL REP : https://github.com/yassineidrissi) <br/>
 This update was made by @yaidriss <br/>
 
-# Mini_Moulinette_c03
+# Mini-Moulinette-c03
 <img align="right" src="./srcs/img_readme.png" width="50%"/>
 This repository contains script to test your c03 project.
 The script will do the following tests :
@@ -28,7 +28,7 @@ The script will compil your files with your c03.
 ### Installation
 
 ```bash
-git clone https://github.com/y3ll0w42/Mini_Moulinette_c03
+git clone https://github.com/y3ll0w42/Mini-Moulinette-c03
 ```
 
 ### Configuration
@@ -83,7 +83,7 @@ bash grademe.sh ft_strcmpy -f ft_ -n
 ```
 
 ### Supported functions
-All the supported functions are listed [on this page](https://github.com/y3ll0w42/Mini_Moulinette_c03/blob/master/supported_functions.md).
+All the supported functions are listed [on this page](https://github.com/y3ll0w42/Mini-Moulinette-c03/blob/master/supported_functions.md).
 ## Contribution
 
 Any suggestions or bugs reporting ?
